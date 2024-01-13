@@ -1,4 +1,6 @@
 # Minisforum UM790 Pro 120mm Fan Body
+![3D View](images/3dview.png)
+
 This is a fan case for Minisforum UM790 pro with ports for external antennas. As the internal fan for SSD and Memory seems to often fail and has a pretty bad temperature curve without a proper hysteresis I decided to replace it with a 120mm fan as it kinda fits with the size of the mini pc. 
 
 It consists of two parts. One to house the fan and another one to mount to the top and hold the two antennas. 
