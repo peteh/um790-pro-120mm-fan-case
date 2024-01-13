@@ -24,7 +24,7 @@ The fan itself connects via a USB cable to one usb port on the back of the mini 
 
 ### Bottom Part Assembly
 1. First put the filter into the case
-2. Put the fan into the case so the fan direction will push air into the case (logo of the fan shows downwars towards the filter)
+2. Put the fan into the case so the fan direction will push air into the case
 3. From the outside, put the fan grill and screw the feet into the fan through the 4 holes of the 3d printed bottom case part
 
 ![Bottom Part](images/bottom.jpg)
