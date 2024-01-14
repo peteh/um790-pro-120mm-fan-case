@@ -59,6 +59,10 @@ External antennas to connect Bluetooth and WiFi because the original antennas ar
 
 Amazon.de: <https://amzn.to/47tY6NS>
 
+## Credits
+
+Project inspiration: <https://sagar.se/blog/um790-cooling-wifi/>
+
 ## Further Links
 
 Thingiverse: <https://www.thingiverse.com/thing:6432671>
