@@ -45,7 +45,10 @@ The fan itself connects via a USB cable to one usb port on the back of the mini 
 
 A 120mm fan that you can connect via USB.
 
-Amazon.de: <https://amzn.to/3RZcTu3>
+Here are some ideas: 
+
+- USB Fan with rubber feet : Amazon.de <https://amzn.to/3RZcTu3>
+- Noctua 120mm USB fan: Amazon.de <https://amzn.to/3SlVcFB>
 
 ### Dust filter for 120mm fans
 
