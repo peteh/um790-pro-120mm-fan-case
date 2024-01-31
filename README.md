@@ -45,22 +45,22 @@ The fan itself connects via a USB cable to one usb port on the back of the mini 
 
 A 120mm fan that you can connect via USB.
 
-Here are some ideas: 
+Here are some ideas:
 
-- USB Fan with rubber feet : Amazon.de <https://amzn.to/3RZcTu3>
-- Noctua 120mm USB fan: Amazon.de <https://amzn.to/3SlVcFB>
+- USB Fan with rubber feet : [Buy on Amazon (partner link)](https://amzn.to/3RZcTu3)
+- Noctua 120mm USB fan: [Buy on Amazon (partner link)](https://amzn.to/3SlVcFB)
 
 ### Dust filter for 120mm fans
 
 Optional: A dust filter that stops the fan from pulling in dust particles from the bottom.
 
-Amazon.de: <https://amzn.to/41W7HvQ>
+[Buy on Amazon (partner link)](https://amzn.to/41W7HvQ)
 
 ### External Antennas
 
 External antennas to connect Bluetooth and WiFi because the original antennas are embedded into the bottom case lid.
 
-Amazon.de: <https://amzn.to/47tY6NS>
+Amazon.de: [Buy on Amazon (partner link)](https://amzn.to/47tY6NS)
 
 ## Credits
 
